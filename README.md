@@ -24,14 +24,14 @@
 
 
 # INSTALLING THE PROGRAM:
-Open CMD prompt and type this and press enter:
+- Open CMD prompt and type this and press enter:
 pip install -r requirements.txt
 
 
 # RUNNING : 
-Run the script in your CMD prompt and type the following thing:
+- Run the script in your CMD prompt and type the following thing:
 > python Finder.py --first --Urltarget --listoflinks
-Then press enter and it will automatically begin.
+- Then press enter and it will automatically begin.
 > python first google.com dir1.txt
 
 
