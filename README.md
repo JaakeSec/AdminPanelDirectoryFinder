@@ -32,7 +32,7 @@
 - Run the script in your CMD prompt and type the following thing:
 > python Finder.py --first --Urltarget --listoflinks
 - Then press enter and it will automatically begin.
-- Here is an example with the available method:
+  # Here is an example with the available method:
 > python first google.com dir1.txt
 
 
